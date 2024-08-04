@@ -47,9 +47,6 @@ Welcome to **FAB HOTELS**, an innovative and elegant online hotel booking websit
 - **User Experience (UX)**: Understand the importance of intuitive navigation and engaging visuals in creating a positive user experience.
 - **Frontend Development Best Practices**: Explore best practices in frontend development, including code organization, modularity, and performance optimization.
 
-🌐 **Live Demo**
-Experience the FAB HOTELS booking platform in action by visiting the [live demo](https://onlinehotelbooking.netlify.app/).
-
 🛠️ **Explore More**
 Curious about more of my work? Check out my [GitHub](https://github.com/Yashas14) for additional projects and updates. Let's code something amazing together!
 
