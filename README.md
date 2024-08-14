@@ -1,7 +1,3 @@
-# FAB_HOTELS
-Developed a hotel booking website named FAB HOTELS using HTML, CSS, and JavaScript, featuring a responsive design and dynamic functionality.
-Here is an even more creative and detailed description for your GitHub project:
-
 🌐 **FAB HOTELS: Premier Online Hotel Booking Platform**
 
 🎯 **Project Overview**
